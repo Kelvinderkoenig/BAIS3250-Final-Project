@@ -14,6 +14,6 @@ docs/ - report
 
 ## Data Source
 
-Kaggle dataset (QS College Ranking): https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025
+Kaggle dataset (QS College Ranking): https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025 \
 College Raptor: https://www.collegeraptor.com/college-rankings/details/SchoolRanking
 
