@@ -1,1 +1,1 @@
-Project documentation including the data dictionary will go here. 
+This directory contains the final report. 
