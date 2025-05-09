@@ -1,8 +1,8 @@
 # BAIS3250-Final-Project
 ## Authors: Kelvin Wu, Luke Miller
 ### Folder Structure
-data/ - raw and cleaned datasets
-notebooks/ - jupyter notebook for the finished script
+data/ - raw and cleaned datasets \
+notebooks/ - jupyter notebook for the finished script \
 docs/ - report
 
 ## Table of Contents
