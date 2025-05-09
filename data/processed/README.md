@@ -1,1 +1,1 @@
-This folder contains processed data.
+This folder contains processed data that is ready for analysis. 
