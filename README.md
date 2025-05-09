@@ -1,9 +1,15 @@
 # BAIS3250-Final-Project
 ## Authors: Kelvin Wu, Luke Miller
 ### Folder Structure
+
+The project consists of several files: \
+1. The Jupyter notebook, found in the folder "notebooks"
+2. The data used for the project, found in the folder "data"
+3. The final report, found in the folder "docs"
+
 data/ - raw and cleaned datasets \
 notebooks/ - jupyter notebook for the finished script \
-docs/ - report
+docs/ - final report
 
 ## Table of Contents
 
